@@ -4,9 +4,9 @@
 **There are 2 datasets:** tweeter_dub1 and tweeter_dub2.
 Each file contains data about "Forest Twitter" in the following format:\
 post author;\
-author type;
-post text;
-post date
+author type;\
+post text;\
+post date;
 
 **Task:** Conduct sentiment analysis of the posts in the datasets and compare them based on the following criteria:
 1. Determine which dataset, on average, has "kinder" posts.
