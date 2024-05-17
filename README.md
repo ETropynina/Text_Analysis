@@ -3,7 +3,7 @@
 
 **There are 2 datasets:** tweeter_dub1 and tweeter_dub2.
 Each file contains data about "Forest Twitter" in the following format:
-post author;
+post author;\
 author type;
 post text;
 post date
